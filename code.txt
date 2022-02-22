@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 <h1>Hellloo!<h1/>
 <h1>Welcomee<h1/>
+=======
+<h1>Hello!<h1/>
+<h1>welcome!<h1/>
+>>>>>>> cd73e6b0ada3a2ab5e653dda28cbfc6d812e36b6
